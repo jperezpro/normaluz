@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://normaluzartdeco.com/sitemap.xml
+Sitemap: https://normaluz.pages.dev/sitemap.xml
