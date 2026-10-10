@@ -9,7 +9,7 @@ pagina.
 dominios.** El cliente no lo renovo y ya no es cliente activo.
 
 El sitio se mantiene online en **https://normaluz.pages.dev** para mostrarlo en
-el portfolio de la web personal (web-personal-jperezpro.pages.dev). Todas las URLs absolutas del repo (canonical,
+el portfolio de la web personal (jperez.pages.dev). Todas las URLs absolutas del repo (canonical,
 `og:url`, `twitter:*`, JSON-LD, `sitemap.xml`, `robots.txt`) apuntan ahi.
 
 No volver a poner `normaluzartdeco.com` en ningun lado: ese dominio ya no es
