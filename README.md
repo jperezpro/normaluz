@@ -26,7 +26,7 @@ Que quien busca una vidriería en Montevideo entienda en segundos qué hace el t
 
 - HTML, CSS y JavaScript sin frameworks.
 - Tailwind CSS.
-- Publicado en Cloudflare Pages con deploy automático desde `main`. `_redirects` evita que se sirvan los archivos del repo (README, configuración).
+- Publicado en Cloudflare Pages con deploy automático desde `main`. `_redirects` y `functions/_middleware.js` evitan que se sirvan los archivos del repo (README, configuración), también con la ruta codificada.
 
 ## Correr en local
 
