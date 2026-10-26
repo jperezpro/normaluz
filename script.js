@@ -41,7 +41,7 @@ document.addEventListener('DOMContentLoaded', function() {
         { src: 'images/vidriocondibujo.png', title: 'Vidrio con dibujo para boutique' },
         { src: 'images/puertaventanaexteriorgrande.png', title: 'Puerta ventana exterior grande' },
         { src: 'images/vidriograbadocondibujo.png', title: 'Vidrio grabado con dibujo' },
-        { src: 'images/ventana completa con visagra.png', title: 'Ventana completa con visagra' }
+        { src: 'images/ventana completa con visagra.png', title: 'Ventana completa con bisagra' }
     ];
 
     const galleryGrid = document.getElementById('gallery-grid');
